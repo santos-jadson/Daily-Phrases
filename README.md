@@ -1,7 +1,6 @@
 # Daily Phrases
 
-![Design preview for the REST Countries API with color theme switcher coding challenge](./assets/design.jpeg)
-
+<img src="./assets/design.jpeg" width="350" height="480">
 
 A new Flutter application. I did it just to practice Dart/Flutter.
 
